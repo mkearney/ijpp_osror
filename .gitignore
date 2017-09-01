@@ -1,4 +1,4 @@
-manuscript/*.docx
-data/*.rds
-data/*.csv
+manuscript/manuscript.docx
+manuscript/tables/tables.docx
+data/Pnl3Cln.rds
 .Rproj.user
