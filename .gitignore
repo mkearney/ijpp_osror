@@ -1,2 +1,4 @@
-manuscript/**
-data/**
+manuscript/*.docx
+data/*.rds
+data/*.csv
+.Rproj.user
