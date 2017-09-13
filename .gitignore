@@ -1,5 +1,6 @@
 manuscript/manuscript.docx
 manuscript/tables/tables.docx
+manuscript/**
 data/Pnl3Cln.rds
 .Rproj.user
 **/.DS_store
